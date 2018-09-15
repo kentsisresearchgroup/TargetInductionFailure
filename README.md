@@ -1,1 +1,1 @@
-# Python script for data processing, published in "Genetic mechanisms of primary chemotherapy resistance in pediatric acute myeloid leukemia: A report from the TARGET initiative"
+# Python code for aggregating and filtering whole-genome and mRNA sequencing data, as published in "Genetic mechanisms of primary chemotherapy resistance in pediatric acute myeloid leukemia: A report from the TARGET initiative"
